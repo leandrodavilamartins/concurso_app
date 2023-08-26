@@ -23,6 +23,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"carbon-components-svelte": "^0.80.0"
+		"carbon-components-svelte": "^0.80.0",
+		"langchain": "^0.0.135"
 	}
 }
