@@ -5,7 +5,8 @@
 
 <div class="container">
 	<nav>
-		<Link href="/translator">Translator</Link>
+		<Link href="/translator">Translator /</Link>
+		<Link href="/add_question">Adicionar</Link>
 	</nav>
 </div>
 <slot />

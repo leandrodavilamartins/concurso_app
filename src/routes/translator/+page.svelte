@@ -11,7 +11,7 @@
 	async function callToApi() {
 		loaderOn = true;
 		const response = await chat.predictMessages([
-			new SystemMessage('You are a helpful assistant that translates Portuguese to English'),
+			new SystemMessage('You are a helpful assistant that translates Portuguese to French'),
 			new HumanMessage(`${text}`)
 		]);
 		console.log(response.content);
