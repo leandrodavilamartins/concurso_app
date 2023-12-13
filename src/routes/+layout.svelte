@@ -6,7 +6,8 @@
 <div class="container">
 	<nav>
 		<Link href="/translator">Translator /</Link>
-		<Link href="/add_question">Adicionar</Link>
+		<Link href="/add_question">Adicionar /</Link>
+		<Link href="/quiz">Teste</Link>
 	</nav>
 </div>
 <slot />

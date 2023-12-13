@@ -5,12 +5,7 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: 'AIzaSyCCzzxSIggJzXUjtG9QF_gR9OJxqYrf2GY',
-	authDomain: 'quiz-with-langchain.firebaseapp.com',
-	projectId: 'quiz-with-langchain',
-	storageBucket: 'quiz-with-langchain.appspot.com',
-	messagingSenderId: '874286057412',
-	appId: '1:874286057412:web:70674a316d71c594e88691'
+	//dados do firebase aqui
 };
 
 // Initialize Firebase
